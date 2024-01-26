@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Harsha Bhargav</h1>
-<h3 align="center">A Passionate Data enthusiast with experience in Advanced Analytics and Engineering. I am working on learning ML Engineering.</h3>
+<h3 align="left">I am a passionate Data enthusiast with experience in Advanced Analytics and Data Engineering. I am working on learning advance ML concepts and deployment.</h3>
 
-- 🔭 I’m currently working on **deploying an LLM model**
+- 🌱 I’m currently learning **MLflow, DVC, Docker, Kubernetes, Artifact Registry, ML deployment, LLMs deployment, ML APIs**
 
-- 🌱 I’m currently learning **LLMs deployment, MLflow, Model deployment**
+- I am also working on an **MLOps project to deploy a custom training LLM finance chatbot **
 
-- I am also working on **MLOps project**
+- 📫 You can reach me @  **yarramsetty.h@northeastern.edu**
 
-- 📫 How to reach me **yarramsetty.h@northeastern.edu**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on Linkedin:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsha-bhargav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsha-bhargav/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harsha-bhargav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsha-bhargav/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
