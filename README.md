@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsha Bhargav</h1>
-<h3 align="left">I am a passionate Data enthusiast with experience in Advanced Analytics and Data Engineering. I am working on learning advance ML concepts and deployment.</h3>
+<h3 align="left">I am a passionate Data enthusiast with experience in Advanced Analytics and Data Engineering. I am working on ML deployment.</h3>
 
-- 🌱 I’m currently learning **MLflow, DVC, Docker, Kubernetes, Artifact Registry, ML deployment, LLMs deployment, ML APIs**
+- 🌱 I’m working on **MLflow, DVC, Docker, Kubernetes, Artifact Registry, ML deployment, LLMs deployment, ML APIs**
 
 - I am also working on an **MLOps project to deploy a custom training LLM finance chatbot **
 
